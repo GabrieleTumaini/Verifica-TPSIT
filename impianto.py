@@ -50,7 +50,7 @@ class ImpiantoSolare:
             if(p.codice == codice):
                 self._pannelli.remove(p)
             else: return None
-    """
-                
+    
+    """      
         
         
